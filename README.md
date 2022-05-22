@@ -1,5 +1,5 @@
 HI There! <br>
-These are my best works ever!
+These are my best works ever! <br>
 Not everybody have such incredible portfolio as me!
 
 ## MY WORKS:
@@ -7,4 +7,4 @@ Not everybody have such incredible portfolio as me!
    - Website: https://top-masonry.com
    - GitHub: 
    - Collaborators: 
-     1)https://github.com/Stanislavkvv
+     - https://github.com/Stanislavkvv
