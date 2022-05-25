@@ -5,13 +5,13 @@ Not everybody have such incredible portfolio as me!
 ## MY WORKS:
  - Rosava Group
    - Website: 
-   - GitHub: 
+   - GitHub: https://github.com/PAZIUK/Rosava-Group
    - Collaborators: 
      - https://github.com/Stanislavkvv
 
  - TOP Masonry&Tuckpointing
    - Website: https://top-masonry.com
-   - GitHub: 
+   - GitHub: https://github.com/PAZIUK/TOP-Masonry-Tuckpointing
    - Collaborators: 
      - https://github.com/Stanislavkvv
   
